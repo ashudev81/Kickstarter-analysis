@@ -14,7 +14,7 @@ This is very usefull data table as well as visual so large data can be shown in 
 ### Analysis of Outcomes Based on Goals
 1.  High variation is observed with changing the goal.
 2.  No dedicated trend is observed in chart. 
-1[Outcomes_vs_Goals](Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 USe of Counterifs funcition was a challenges.
     - Tried different sequences and outcome to get required results.
