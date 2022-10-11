@@ -7,3 +7,5 @@ Louise has observed high sucessful rate in May and June month.
 ![image_name](OutcomesBasedLuanchDate.png)
 With Box and Whisker graph analysis, it is observed that mean value is much higher than median which show the data spread is skewed.
 ![image_name](GB_Musical_Box-Whisker.png)
+When Louise made high Goal in play/US, shows high failed rate.
+1[image_name](GoalVsPledge.png)
